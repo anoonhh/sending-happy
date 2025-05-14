@@ -203,7 +203,7 @@ footer .social-links div:hover {
 
 
 
-/* RESPONSIVE STYLING */
+/* RESPONSIVE STYLING MEDIA QUERY */
 
 /* 1284px - 992px */
 
@@ -495,8 +495,8 @@ footer .social-links div:hover {
         margin-top: 20px;
         width: 100%;   
         height: auto;
-        align-self: center;            
-    
+        align-self: center;
+                     
     }
 
     .service-text h2{
@@ -521,7 +521,7 @@ footer .social-links div:hover {
     }
 
     .footer{
-        margin-top: -40px;
-      
+        margin-top: -40px; 
+
     } 
 }
